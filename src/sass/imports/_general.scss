@@ -9,10 +9,11 @@ html {
 }
 
 body {
+  font-size: 1.1rem;
   font-family: 'Roboto', sans-serif!important;
   background: _palette(bg);
   color: _palette(primary);
-  line-height: 1.875;
+  line-height: 1.575;
   text-rendering: optimizeLegibility;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;

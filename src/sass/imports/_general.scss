@@ -112,6 +112,7 @@ pre {
 }
 
 :not(pre) > code {
+  font-family: 'Roboto Mono', monospace!important;
   background: #f4e5e5;
   color: #900;
   border-radius: 3px;

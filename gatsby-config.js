@@ -51,6 +51,14 @@ module.exports = {
       },
     },
 	`gatsby-plugin-offline`,
+{
+      resolve: 'gatsby-plugin-web-font-loader',
+      options: {
+        google: {
+          families: ['Roboto:400,500', 'Roboto Mono:400,500']
+        }
+      }
+    }
 
     ]
 };

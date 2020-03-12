@@ -18,6 +18,7 @@
     "gatsby-plugin-manifest": "^2.2.46",
     "gatsby-plugin-offline": "^3.0.39",
     "gatsby-plugin-react-helmet": "^3.0.0",
+    "gatsby-plugin-web-font-loader": "^1.0.4",
     "gatsby-source-filesystem": "2.0.28",
     "gatsby-transformer-remark": "2.3.8",
     "js-yaml": "^3.13.1",
